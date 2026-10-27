@@ -1,6 +1,5 @@
-## Screenshots
-
-![Currency Exchange Application](images/doviz-uygulamasi.png)
+ 
+ 
 # Currency Exchange Application
 
 A C# Windows Forms application that retrieves daily USD and EUR exchange rates from the Central Bank of the Republic of Türkiye (TCMB), performs currency calculations, and tracks currency transactions using SQL Server.
@@ -12,6 +11,11 @@ A C# Windows Forms application that retrieves daily USD and EUR exchange rates f
 - **Transaction Tracking:** Records USD and EUR purchases and corresponding Turkish Lira transactions in SQL Server.
 - **Balance Tracking:** Displays calculated balances for USD, EUR, and TRY.
 - **Database Transactions:** Uses SQL transactions to keep related currency transaction records consistent.
+
+## Screenshots
+
+![Currency Exchange Application](images/doviz-uygulamasi.png)
+
 
 ## Technologies Used
 
