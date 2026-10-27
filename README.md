@@ -14,7 +14,7 @@ A C# Windows Forms application that retrieves daily USD and EUR exchange rates f
 
 ## Screenshots
 
-![Currency Exchange Application](images/doviz-uygulamasi.png)
+![Currency Exchange Application](images/doviz-uygulamasi.png.PNG)
 
 
 ## Technologies Used
